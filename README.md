@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm intern QC/Tester from Vietnam 
+I'm intern QA/QC Engineer from Vietnam 
 
 - I’m currently working on improving my testing skills through real projects and hands-on practice  
 - I’m currently learning manual testing, test case design, and automation tools like Katalon  
